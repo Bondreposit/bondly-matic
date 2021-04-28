@@ -134,7 +134,7 @@ dataSources:
       file: ./src/index.ts
   - kind: ethereum/contract
     name: PolkaPets TCG
-    network: mainnet
+    network: matic
     source:
       abi: IERC1155
       address: "0xd52ba1c76a92170997ab2fba5e90d9cf6a690f34"
@@ -160,7 +160,7 @@ dataSources:
       file: ./src/index.ts
   - kind: ethereum/contract
     name: Logan Paul Digital Collectibles Store
-    network: mainnet
+    network: matic
     source:
       abi: IERC1155
       address: "0x1fdcf478aaa90ff95d01b751b056ca4781c38bfa"
@@ -186,7 +186,7 @@ dataSources:
       file: ./src/index.ts
   - kind: ethereum/contract
     name: Club Hexagon Digital Collectibles
-    network: mainnet
+    network: matic
     source:
       abi: IERC1155
       address: "0xfc1a916540e3ed15281789529091294f5278dcad"
