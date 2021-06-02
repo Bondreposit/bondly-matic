@@ -137,7 +137,7 @@ dataSources:
     network: matic
     source:
       abi: IERC1155
-      address: "0xd52ba1c76a92170997ab2fba5e90d9cf6a690f34"
+      address: "0x0197bd88d2534f56708517f7896e07bce054cbad"
       startBlock: 12239260
     mapping:
       kind: ethereum/events
@@ -163,7 +163,7 @@ dataSources:
     network: matic
     source:
       abi: IERC1155
-      address: "0x1fdcf478aaa90ff95d01b751b056ca4781c38bfa"
+      address: "0x76377a9e94853f1968bccd9a1b8fbf3f6fdf1726"
       startBlock: 12239260
     mapping:
       kind: ethereum/events
